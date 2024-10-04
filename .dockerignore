@@ -1,0 +1,11 @@
+target/
+.git
+*.md
+docker*.yml
+.dockerignore
+.gitignore
+Dockerfile
+.idea
+*.iws
+*.iml
+*.ipr
